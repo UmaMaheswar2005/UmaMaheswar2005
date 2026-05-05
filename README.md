@@ -16,7 +16,6 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,java,rust,go,python,ts,react,nextjs,tailwind,docker,apple" />
   </a>
 </p>
----
 
 ### 🚀 What I'm Shipping
 
