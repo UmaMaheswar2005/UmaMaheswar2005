@@ -13,9 +13,10 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,rust,go,python,ts,react,nextjs,tailwind,docker,apple" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,rust,go,python,ts,react,nextjs,tailwind,docker" />
   </a>
 </p>
+<img src="https://img.shields.io/badge/macOS(M4 Optimized)-000000?style=for-the-badge&logo=apple&logoColor=white" />
 
 ### 🚀 What I'm Shipping
 
