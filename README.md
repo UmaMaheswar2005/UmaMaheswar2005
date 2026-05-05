@@ -12,19 +12,10 @@
 ### 💻 Tech Stack & Arsenal
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,rust,go,python,ts,react,nextjs,tailwind,docker,apple" />
+  </a>
 </p>
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/macOS%20(M4%20Optimized)-000000?style=for-the-badge&logo=apple&logoColor=white" />
-</p>
-
 ---
 
 ### 🚀 What I'm Shipping
@@ -36,25 +27,30 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Engineering Analytics
 
-<div align="center">
-  <a href="https://github.com/UmaMaheswar2005">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=UmaMaheswar2005&theme=tokyo-night&hide_border=true" width="100%" />
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=UmaMaheswar2005&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=UmaMaheswar2005&layout=compact&theme=tokyonight&hide=html,css,jupyter%20notebook&border_radius=10" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=UmaMaheswar2005&theme=tokyonight&column=4&margin-w=15&no-bg=true" alt="User Trophies" />
   </a>
-</div>
-<br/>
-<div align="center">
-  <a href="https://github.com/UmaMaheswar2005">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmaMaheswar2005&theme=tokyonight" width="100%" />
-  </a>
-</div>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Main_Stack-Python_|_C_|_Rust_|_TypeScript-0e75b6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-AI_Infrastructure_&_Edge_Computing-darkgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <br/>
+  <i>Note: Contributions reflect high-intensity development sprints and private system architecture.</i>
+</p>
 
 ---
-
-### ⚡ Featured Architecture
-| Project | Core Tech | Description |
-| :--- | :--- | :--- |
-| **[Real-time Edge Security](https://github.com/UmaMaheswar2005/Real-time-Edge-Security-System)** | `Python`, `YOLOv8`, `Gemini` | Multi-modal AI surveillance with automated threat detection and generative reporting. |
-| **[Vibe-to-Viral Engine](https://github.com/UmaMaheswar2005/vibe-to-viral-engine)** | `C`, `Python`, `Go`, `Rust` | High-performance audio analytics engine utilizing a low-level core for trend forecasting. |
-| **[Intelligent Water Quality](https://github.com/UmaMaheswar2005/Intelligent-Water-Quality-System)** | `Python`, `LSTM`, `TensorFlow`| Deep learning pipeline for predictive water safety monitoring using CPCB datasets. |
