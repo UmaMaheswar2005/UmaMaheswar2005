@@ -39,14 +39,15 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UmaMaheswar2005&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmaMaheswar2005&layout=compact&theme=tokyonight" width="48%" />
+  <a href="https://github.com/UmaMaheswar2005">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=UmaMaheswar2005&theme=tokyo-night&hide_border=true" width="100%" />
+  </a>
 </div>
-
 <br/>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmaMaheswar2005&theme=tokyonight" width="100%" />
+  <a href="https://github.com/UmaMaheswar2005">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmaMaheswar2005&theme=tokyonight" width="100%" />
+  </a>
 </div>
 
 ---
