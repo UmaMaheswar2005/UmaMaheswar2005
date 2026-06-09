@@ -38,9 +38,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=UmaMaheswar2005&theme=tokyonight&column=4&margin-w=15&no-bg=true&v=1" alt="User Trophies" />
-  </a>
+  <img src="https://img.shields.io/badge/Environment-macOS_|_Docker_|_Local_Automation-1a1b26?style=flat&logo=apple&logoColor=7aa2f7" />
+  <img src="https://img.shields.io/badge/Architecture-Apple_Silicon_ARM64-1a1b26?style=flat&logo=cpu&logoColor=f7768e" />
+  <img src="https://img.shields.io/badge/Status-Orchestrating_Agentic_Workflows-1a1b26?style=flat&logo=n8n&logoColor=73daca" />
 </p>
 
 <p align="center">
