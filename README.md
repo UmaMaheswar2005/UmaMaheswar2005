@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=UmaMaheswar2005&theme=tokyonight&column=4&margin-w=15&no-bg=true" alt="User Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=UmaMaheswar2005&theme=tokyonight&column=4&margin-w=15&no-bg=true&v=1" alt="User Trophies" />
   </a>
 </p>
 
