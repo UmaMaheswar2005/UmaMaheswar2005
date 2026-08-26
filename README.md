@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&cache_seconds=3600" alt="Dev Quote" />
 </p>
 
 <p align="center">
