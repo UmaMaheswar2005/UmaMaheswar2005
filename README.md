@@ -30,11 +30,19 @@
 ### 📊 Engineering Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=UmaMaheswar2005&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" />
+  <img src="https://github-stats-extended.vercel.app/api?username=UmaMaheswar2005&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=UmaMaheswar2005&layout=compact&theme=tokyonight&hide=html,css,jupyter%20notebook&border_radius=10" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=UmaMaheswar2005&layout=compact&theme=tokyonight&hide=html,css,jupyter%20notebook&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmaMaheswar2005&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
 <p align="center">
